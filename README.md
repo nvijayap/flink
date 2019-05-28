@@ -1,4 +1,4 @@
-# flink (Apache Flink)
+# Flink (Apache Flink)
 Working with Apache Flink (https://flink.apache.org/)
 
 ### Install Apache Flink on Mac
