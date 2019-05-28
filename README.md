@@ -11,11 +11,10 @@ brew install apache-flink
 /usr/local/opt/apache-flink/libexec/bin/start-cluster.sh
 ```
 
-### Starting more task executors on Mac
+### Start more Task Executors on Mac
 Just reissue above command
 
-### Checking Apache Flink processes (Standalone Session and Task Executors) on Mac
+### Check Apache Flink processes (Standalone Session and Task Executors) on Mac
 ```
 jps
 ```
-
