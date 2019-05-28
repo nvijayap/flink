@@ -1,5 +1,5 @@
-# flink
-Working with Apache Flink using Scala
+# flink (Apache Flink)
+Working with Apache Flink (https://flink.apache.org/)
 
 ### Install Apache Flink on Mac
 ```
